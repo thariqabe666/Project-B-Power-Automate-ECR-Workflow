@@ -3,6 +3,7 @@
 This project is a complete, end-to-end automated workflow for managing Engineering Change Requests (ECRs) or Non-Conformance Reports (NCRs) in an engineering or manufacturing environment. It was built using the Microsoft Power Platform to demonstrate low-code process automation skills.
 
 **Live Demo Asset:**
+
 <img width="693" height="1200" alt="Screenshot 2025-11-05 101434" src="https://github.com/user-attachments/assets/4b1b50bd-5452-4cc3-b31e-034c14b68d54" />
 
 
